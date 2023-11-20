@@ -1,3 +1,27 @@
-A leap year is a year that is divisible by 4 ,
-If it is divisible by 100 tho it is not a leap year UNLESS they 
-	are divisible by by 400
+SCRATCH PAD
+-----------
+
+leap year => {
+	Divisible by 4 {
+		Divisible by 100 {
+			Divisible by 400 {
+			return true
+			}
+			return false
+		}
+		return true;
+	}
+	return flase
+}
+
+Divisible by 4 ? (Divisible by 100 ? (Divisible by 400 ? return true : return false; ) : return true) : return false;
+
+year => {
+	Divisible by 4 ?
+	(Divisible by 100 ? 
+	(Divisible by 400 ? 
+	return true 
+	: return false; ) 
+	: return true) 
+	: return false;
+}

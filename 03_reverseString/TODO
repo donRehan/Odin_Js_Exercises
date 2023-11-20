@@ -1,0 +1,10 @@
+[x] Create an array and store the letters each in a different index
+[x] Loop in reverse and store the letters in a different array
+	[x] Print the array
+[x] Store that into a string
+
+[ H E L L O ]
+Loop in reverse <-
+[ O L L E H ]
+
+Store that into a string 

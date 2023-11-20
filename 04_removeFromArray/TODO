@@ -1,0 +1,18 @@
+[x] Take input as an array , desired element 
+[x] Use splice to remove it
+[_] Allow for removing multiple elements 
+	[_] How do I search in different elements
+
+		SCRATCH PAD 
+Take an element from an array and then remove it from that array
+Use splice 
+
+given different elements , loop through them and use splice !?
+Loop through how ?? 
+Using ...args => 
+
+Turns out it works as creating an array of elements 
+Removing just one element from that array would be ?
+	While i is less than the size of the array
+	use splice and remove the element from the array
+	keep going until elements array is finished !

@@ -1,0 +1,7 @@
+Take an input => Reach another and in the process keep incrementing a total
+initial , final => {
+total = 0;
+max = final;
+for (let i = inital; i <= final ; i++)
+	total += i;
+}
